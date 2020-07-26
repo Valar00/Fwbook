@@ -1,2 +1,3 @@
 # Fwbook
-Simple ICQ! To finish our homework.
+Simple IM application!
+To finish our homework..
